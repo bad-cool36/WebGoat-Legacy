@@ -35,11 +35,7 @@
                     <encoding>ISO-8859-1</encoding>
                 </configuration>
             </plugin>
-	    <plugin>
-		<groupId>com.fortify.sca.plugins.maven</groupId>
-		<artifactId>sca-maven-plugin-master</artifactId>
-		<version>19.2.2</version>
-	    </plugin>
+	    
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
